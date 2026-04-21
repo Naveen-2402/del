@@ -1,0 +1,7 @@
+torch>=2.0.0
+torchvision
+numpy
+opencv-python
+basicsr>=1.4.2
+realesrgan
+gfpgan  # Optional: helps if there are faces in the image
